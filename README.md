@@ -1,4 +1,4 @@
-- 👋 Hi, This is Muhammad Shahid Saleem, and Welcome to my Code Kitchen. 
+- 👋 Hi, This is Shahid Saleem, and Welcome to my Code Kitchen. 
 - 👀 I’m mainly interested in Image Processing and its applications in Computer Vision using Machine Learning and Deep Learning.
 - 🌱 Currently learning Python since I have always worked in MATALAB, but considering the definite demand of Python in the industry and academia for reproducability, I am more than happy to learn this new exciting programming language.
 - 📫 If you like what you see, give it s try, if you think you can improve something, feel free to send pull request, 
